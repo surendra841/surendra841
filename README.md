@@ -27,7 +27,7 @@ I build **production-ready AI applications**, focusing on making LLMs truly func
 I'm always looking to exchange ideas with others building in the **GenAI and Cloud** space. Whether you're wrestling with agentic loops or optimizing retrieval, feel free to reach out!
 
 - 💬 Ask me about: **RAG optimization, Agentic patterns, or productionizing LLMs.**
-- 📫 How to reach me: [Your LinkedIn/Email Link Here]
+- 📫 How to reach me: https://www.linkedin.com/in/sur3ndra
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sur3ndra_b) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sur3ndra) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/sur3ndra) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7773118) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surendra@outlook.in) 
